@@ -4,5 +4,4 @@ hello wenxu!
 hello wenxu!
 hello wenxu!
 hello wenxu! master text 1
-hello wenxu! 
 hello wenxu! hot-fix test 1
